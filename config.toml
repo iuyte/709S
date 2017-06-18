@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "VEX Team 709S"
+theme = "hugo-theme-docdock"
+publishDir = "docs"
