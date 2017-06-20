@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Our Team Members on VEX Team 709S</title>
-    <link>/about/</link>
+    <link>https://iuyte.github.io/709S/about/</link>
     <description>Recent content in About Our Team Members on VEX Team 709S</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Jun 2017 20:38:34 -0400</lastBuildDate>
     
-	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iuyte.github.io/709S/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Spencer</title>
-      <link>/about/spencer/</link>
+      <link>https://iuyte.github.io/709S/about/spencer/</link>
       <pubDate>Sun, 18 Jun 2017 20:38:40 -0400</pubDate>
       
-      <guid>/about/spencer/</guid>
+      <guid>https://iuyte.github.io/709S/about/spencer/</guid>
       <description>Contact: beanwells@icloud.com
 Roles: Lead Builder, Lead Designer
 Class: 2019
@@ -26,10 +26,10 @@ Occupations: Pretending to study while actually on youtube</description>
     
     <item>
       <title>Ethan</title>
-      <link>/about/ethan/</link>
+      <link>https://iuyte.github.io/709S/about/ethan/</link>
       <pubDate>Sun, 18 Jun 2017 20:38:34 -0400</pubDate>
       
-      <guid>/about/ethan/</guid>
+      <guid>https://iuyte.github.io/709S/about/ethan/</guid>
       <description>Contact: ethanialw@gmail.com
 Roles: Lead Programmer, Website Creator / Maintainer, Apprentice Builder / Designer
 Class: 2021
