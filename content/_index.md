@@ -2,20 +2,23 @@
 date = "2017-06-18T16:02:07-04:00"
 description = ""
 title = "VEX Robotics Competition Team 709S"
+type = "page"
+creatordisplayname = "Ethan"
+creatoremail = "ethanialw@gmail.com"
+lastmodifierdisplayname = "Ethan"
+lastmodifieremail = "ethanialw@gmail.com"
 
 +++
 
+![RoboEagles Banner](/img/banner.png)
+
 ### Who We Are
 Team 709S is a team dedicated to three main things:
-    1. Build cool, successful, interesting robots
-    2. Growing knowledge of robotics and STEM fields in the area
-    3. 
-currently consists of two brothers, Spencer and Ethan
-    * Spencer
-        * email: (mailto:beanwells@icloud.com)[beanwells@icloud.com]
-        * Roles: Lead Builder, Lead Designer
-    * Ethan
-        * email: (mailto:ethanialw@gmail.com)[ethanialw@gmail.com]
-        * Roles: Lead Programmer, co-designer, website creator/maintainence
+    <ol>
+      <li>Build cool, successful, interesting robots</li>
+      <li>Growing knowledge of robotics and STEM fields in the area</li>
+      <li>Encouraging and aiding new teams to grow</li>
+    </ol>
 
-### What
+It currently consists of two brothers, Spencer and Ethan, and was originally based off of BSA Troop 709.
+
