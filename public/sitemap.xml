@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/about/spencer/</loc>
+    <lastmod>2017-06-18T20:38:40-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2017-06-18T20:38:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/ethan/</loc>
+    <lastmod>2017-06-18T20:38:34-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/notebook/programming/</loc>
     <lastmod>2017-06-18T16:20:34-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/_header/</loc>
+    <lastmod>2017-06-18T16:02:07-04:00</lastmod>
   </url>
   
   <url>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Our Team Members on VEX Team 709S</title>
+    <link>/about/</link>
+    <description>Recent content in About Our Team Members on VEX Team 709S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jun 2017 20:38:34 -0400</lastBuildDate>
+    
+	<atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spencer</title>
+      <link>/about/spencer/</link>
+      <pubDate>Sun, 18 Jun 2017 20:38:40 -0400</pubDate>
+      
+      <guid>/about/spencer/</guid>
+      <description>Contact: beanwells@icloud.com
+Roles: Lead Builder, Lead Designer
+Class: 2019
+Grades: Not good enough
+Occupations: Pretending to study while actually on youtube</description>
+    </item>
+    
+    <item>
+      <title>Ethan</title>
+      <link>/about/ethan/</link>
+      <pubDate>Sun, 18 Jun 2017 20:38:34 -0400</pubDate>
+      
+      <guid>/about/ethan/</guid>
+      <description>Contact: ethanialw@gmail.com
+Roles: Lead Programmer, Website Creator / Maintainer, Apprentice Builder / Designer
+Class: 2021
+Likes:  Programming Languages:  Python HTML CSS Javascript C C++   Linux (currently running Linux Mint, possibly switching to Arch in the future) Learning, especially STEAM things Space, specifically astrophysics and rocket science 
+Dislikes:  Java (it&amp;rsquo;s overused and unproductive) Canned Corn</description>
+    </item>
+    
+  </channel>
+</rss>

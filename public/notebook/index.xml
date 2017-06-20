@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notebooks on VEX Team 709S</title>
+    <link>/notebook/</link>
+    <description>Recent content in Notebooks on VEX Team 709S</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jun 2017 16:20:34 -0400</lastBuildDate>
+    
+	<atom:link href="/notebook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Programming</title>
+      <link>/notebook/programming/</link>
+      <pubDate>Sun, 18 Jun 2017 16:20:34 -0400</pubDate>
+      
+      <guid>/notebook/programming/</guid>
+      <description>body { align: center; // background-color: #bfbfdf; background-image: url(&#34;/img/bubbles.png&#34;) background-repeat: repeat; width: 100%; margin: 0px; font-family: &#39;Open Sans&#39;, sans-serif; } .link { color: black; text-decoration: none; word-wrap: break-word; } .link:visited { color: black; text-decoration: none; cursor: auto; } .link:hover { color: #0000EE; text-decoration: underline; cursor: pointer; } .commit { background-color: #efefef; width: 90%; align: center; align-self: center; align-content: center; align-items: center; border-color: #454585; border-style: groove inset; border-radius: 25px; padding: 20px; margin: 5%; box-shadow: 10px 10px 5px #777777; } .</description>
+    </item>
+    
+  </channel>
+</rss>
