@@ -22,3 +22,11 @@ git push origin master
 
 # Come Back
 cd ..
+
+# My additions
+git add *
+msg="`date`"
+if [ $# -eq 1 ]
+  then msg="$1"
+fi
+git commit -m "$msg"
