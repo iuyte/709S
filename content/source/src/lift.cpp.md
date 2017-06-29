@@ -1,6 +1,6 @@
 +++
-title='src/lift.cpp'
-description='Code for src/lift.cpp'
+title='lift.cpp'
+description='Code for lift.cpp'
 type='page'
 +++
 

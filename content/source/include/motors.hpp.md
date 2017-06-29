@@ -1,6 +1,6 @@
 +++
-title='include/motors.hpp'
-description='Code for include/motors.hpp'
+title='motors.hpp'
+description='Code for motors.hpp'
 type='page'
 +++
 

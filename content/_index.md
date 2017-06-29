@@ -2,7 +2,7 @@
 date = "2017-06-18T16:02:07-04:00"
 description = ""
 title = "VEX Robotics Competition Team 709S"
-type = "page"
+type = "HomePage"
 creatordisplayname = "Ethan"
 creatoremail = "ethanialw@gmail.com"
 lastmodifierdisplayname = "Ethan"
@@ -21,4 +21,3 @@ Team 709S is a team dedicated to three main things:
     </ol>
 
 It currently consists of two brothers, Spencer and Ethan, and was originally based off of BSA Troop 709.
-

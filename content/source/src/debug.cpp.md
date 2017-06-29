@@ -1,6 +1,6 @@
 +++
-title='src/debug.cpp'
-description='Code for src/debug.cpp'
+title='debug.cpp'
+description='Code for debug.cpp'
 type='page'
 +++
 

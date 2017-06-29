@@ -16,6 +16,4 @@ lastmodifieremail = "beanwells@icloud.com"
 
 **Class:** 2019
 
-**Grades:** ~~Not good enough~~
-
-**Occupations:** ~~Pretending to study while actually on youtube~~
+Spencer please give me information to put here.

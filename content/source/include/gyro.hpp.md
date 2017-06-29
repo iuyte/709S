@@ -1,6 +1,6 @@
 +++
-title='include/gyro.hpp'
-description='Code for include/gyro.hpp'
+title='gyro.hpp'
+description='Code for gyro.hpp'
 type='page'
 +++
 

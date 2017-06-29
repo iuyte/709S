@@ -1,6 +1,6 @@
 +++
-title='src/gyro.cpp'
-description='Code for src/gyro.cpp'
+title='gyro.cpp'
+description='Code for gyro.cpp'
 type='page'
 +++
 

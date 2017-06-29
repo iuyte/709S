@@ -1,6 +1,6 @@
 +++
-title='include/debug.hpp'
-description='Code for include/debug.hpp'
+title='debug.hpp'
+description='Code for debug.hpp'
 type='page'
 +++
 

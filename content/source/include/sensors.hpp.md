@@ -1,6 +1,6 @@
 +++
-title='include/sensors.hpp'
-description='Code for include/sensors.hpp'
+title='sensors.hpp'
+description='Code for sensors.hpp'
 type='page'
 +++
 

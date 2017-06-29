@@ -1,6 +1,6 @@
 +++
-title='src/opcontrol.cpp'
-description='Code for src/opcontrol.cpp'
+title='opcontrol.cpp'
+description='Code for opcontrol.cpp'
 type='page'
 +++
 

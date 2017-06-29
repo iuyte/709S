@@ -3,6 +3,6 @@ title = "VEX Team 709S"
 theme = "docdock"
 publishDir = "public"
 baseURL = "https://iuyte.github.io/"
-# themeVariant = "gold"
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]

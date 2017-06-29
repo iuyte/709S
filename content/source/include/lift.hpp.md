@@ -1,6 +1,6 @@
 +++
-title='include/lift.hpp'
-description='Code for include/lift.hpp'
+title='lift.hpp'
+description='Code for lift.hpp'
 type='page'
 +++
 

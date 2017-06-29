@@ -1,6 +1,6 @@
 +++
-title='src/motors.cpp'
-description='Code for src/motors.cpp'
+title='motors.cpp'
+description='Code for motors.cpp'
 type='page'
 +++
 
