@@ -56,7 +56,7 @@ namespace sensors {
 
   /** Class for gyro objects */
   class gyro_t {
-   public:
+  public:
     /** The gyro struct used in funtions */
     Gyro gyro;
     /** The port the gyro is plugged into */
@@ -75,7 +75,7 @@ namespace sensors {
     /** Class constructor, but it must not be forgotten to call init() */
     gyro_t(unsigned char _port, unsigned int _calibration);
 
-   private:
+  private:
     /** The calibration, a temporary placement between construction and
      * initialization */
     int calibration;
