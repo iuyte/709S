@@ -30,6 +30,7 @@ void operatorControl() {
   sensors::reset();
 
   while (isEnabled()) {
+    debug::debug();
     if (tank) {
       drive::tank();
     } else {
@@ -40,7 +41,7 @@ void operatorControl() {
     } else {
       wpressed = joystickGetDigital(1, 7, JOY_DOWN);
     }
-    debug::debug();
+    lift::control();
     delay(50);
   }
 }
