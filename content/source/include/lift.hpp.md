@@ -22,7 +22,9 @@ type='page'
 // You should have received a copy of the GNU Lesser General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#pragma once
+#ifndef LIFT_HPP
+#define LIFT_HPP
+
 #include "drive.hpp"
 
 /** Contains everything relating to the drive */
@@ -70,4 +72,6 @@ namespace lift {
   void to(position pos = bottom, int int_pos = -1, int tolerance = 50);
 
 } // namespace lift
+
+#endif /* end of include guard: LIFT_HPP */
 ```

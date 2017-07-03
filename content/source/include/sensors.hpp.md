@@ -22,7 +22,9 @@ type='page'
 // You should have received a copy of the GNU Lesser General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#pragma once
+#ifndef SENSORS_HPP
+#define SENSORS_HPP
+
 #include "API.h"
 
 /** The namespace containing all information, functions, objects, relating to
@@ -149,4 +151,6 @@ namespace sensors {
   /** gyro on the drive */
   extern gyro_t gyro;
 } // namespace sensors
+
+#endif /* end of include guard: SENSORS_HPP */
 ```
