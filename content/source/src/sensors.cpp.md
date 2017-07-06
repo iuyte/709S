@@ -31,10 +31,10 @@ namespace sensors {
   pot_t lift(1, false);
   gyro_t gyro(2, 197);
 
-  quad_t::quad_t(unsigned char port1, unsigned char port2, bool _inverted) {
+  quad_t::quad_t(unsigned char port1, unsigned char port2, bool inverted)
+      : inverted(inverted) {
     ports[0] = port1;
     ports[1] = port2;
-    inverted = _inverted;
     zero     = 0;
     request  = 0;
   }
@@ -49,11 +49,10 @@ namespace sensors {
     request = 0;
   }
 
-  gyro_t::gyro_t(unsigned char _port, unsigned int _calibration) {
-    port        = _port;
-    calibration = _calibration;
-    zero        = 0;
-    request     = 0;
+  gyro_t::gyro_t(unsigned char port, unsigned int calibration)
+      : port(port), calibration(calibration) {
+    zero    = 0;
+    request = 0;
   }
   void gyro_t::init(void) {
     gyro_t::gyro = gyroInit(port, calibration);
@@ -66,11 +65,10 @@ namespace sensors {
     request = 0;
   }
 
-  pot_t::pot_t(unsigned char _port, bool _inverted) {
-    port     = _port;
-    inverted = _inverted;
-    zero     = 0;
-    request  = 0;
+  pot_t::pot_t(unsigned char port, bool inverted)
+      : port(port), inverted(inverted) {
+    zero    = 0;
+    request = 0;
   }
   void pot_t::init(void) {
     analogCalibrate(port);
@@ -94,9 +92,8 @@ namespace sensors {
     return ultrasonicGet(sonic);
   }
 
-  button_t::button_t(unsigned char _port, bool _inverted) {
-    port     = _port;
-    inverted = _inverted;
+  button_t::button_t(unsigned char port, bool inverted)
+      : port(port), inverted(inverted) {
   }
   void button_t::init(void) {
     pinMode(port, INPUT);
