@@ -25,6 +25,7 @@ type='page'
 #ifndef DRIVE_HPP
 #define DRIVE_HPP
 
+#include "joystick.hpp"
 #include "motors.hpp"
 #include "sensors.hpp"
 
