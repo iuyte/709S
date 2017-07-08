@@ -57,6 +57,7 @@ type='page'
 
 #include "API.h"
 #include "debug.hpp"
+#include "pid.hpp"
 
 // Allow usage of this file in C++ programs
 #ifdef __cplusplus
